@@ -18,4 +18,4 @@ Videokymography is a high-speed medical imaging method to visualize the human vo
 
 # Environment
 
-   * Python: 3.6.5
+   * Matlab
