@@ -3,7 +3,7 @@
 
 This project is from the xxxxxxxxxx
 
-This project is based on Matlab
+This code is based on Matlab
 
 # Content
 
