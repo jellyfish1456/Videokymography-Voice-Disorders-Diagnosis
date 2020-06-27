@@ -3,7 +3,7 @@
 
 This database is from <b>Far Eastern Memorial Hospital</b>, which is not public for others
 
-This code is based on Matlab
+The course is [EEA683](https://portal.yzu.edu.tw/cosSelect/Cos_Plan_En.aspx?y=108&s=2&id=EEA683&c=A) from Yuan Ze University, Taiwan
 
 # Content
 
