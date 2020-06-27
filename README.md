@@ -25,7 +25,7 @@ This code is based on Matlab
 
 <center>This is the colored image of videokymorgraphy</center>
 
-|TaoBeier    |    TaoBeier|  TaoBeier  |
+<center> Markdown </center>
 
 <div align="center">
 
