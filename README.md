@@ -26,7 +26,7 @@ This code is based on Matlab
 
 <div align="center">
 
-<center>This is the colored image of videokymorgraphy</center><p>
+<center>This is the colored image of videokymorgraphy</center><p><p><p>
 
 <img src="https://github.com/christw16/Videokymography-for-Voice-Disorders-Diagnosis/blob/master/image/colored.jpg"  >
 
