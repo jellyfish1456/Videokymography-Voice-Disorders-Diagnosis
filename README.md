@@ -23,13 +23,15 @@ This code is based on Matlab
    
 # Example
 
-<center>This is the colored image of videokymorgraphy</center>
 
-<center> Markdown </center>
+
+
 
 <div align="center">
 
 <img src="https://github.com/christw16/Videokymography-for-Voice-Disorders-Diagnosis/blob/master/image/colored.jpg"  >
+
+<center>This is the colored image of videokymorgraphy</center>
 
 </div>
 
