@@ -23,14 +23,14 @@ This code is based on Matlab
    
 # Example
 
-
+This is the colored image of videokymorgraphy
 
 <div align="center">
 
 <img src="https://github.com/christw16/Videokymography-for-Voice-Disorders-Diagnosis/blob/master/image/colored.jpg"  >
 
- </div>
+</div>
 
 
-![pic1](https://github.com/christw16/Videokymography-for-Voice-Disorders-Diagnosis/blob/master/image/colored.jpg)
+
 
