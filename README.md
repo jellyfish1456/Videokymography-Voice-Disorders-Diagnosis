@@ -1,7 +1,7 @@
 # Videokymography for Voice Disorders Diagnosis
 
 
-This database is from Far Eastern Memorial Hospital, which is not public for others
+This database is from <b>Far Eastern Memorial Hospital</b>, which is not public for others
 
 This code is based on Matlab
 
