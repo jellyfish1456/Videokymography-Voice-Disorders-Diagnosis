@@ -22,3 +22,5 @@ This code is based on Matlab
    
    
 # Example
+
+<div align=center><img width="450" height="450" src="https://github.com/christw16/Videokymography-for-Voice-Disorders-Diagnosis/blob/master/image/colored.jpg"/></div>
