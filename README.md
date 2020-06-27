@@ -1,7 +1,7 @@
 # Videokymography for Voice Disorders Diagnosis
 
 
-This project is from the xxxxxxxxxx
+This database is from Far Eastern Memorial Hospital, which is not public for others
 
 This code is based on Matlab
 
