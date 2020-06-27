@@ -24,14 +24,12 @@ This code is based on Matlab
 # Example
 
 
-
-
-
 <div align="center">
 
-<img src="https://github.com/christw16/Videokymography-for-Voice-Disorders-Diagnosis/blob/master/image/colored.jpg"  ><br>
+<center>This is the colored image of videokymorgraphy</center><br>
 
-<center>This is the colored image of videokymorgraphy</center>
+<img src="https://github.com/christw16/Videokymography-for-Voice-Disorders-Diagnosis/blob/master/image/colored.jpg"  >
+
 
 </div>
 
