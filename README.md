@@ -23,7 +23,7 @@ This code is based on Matlab
    
 # Example
 
-This is the colored image of videokymorgraphy
+<center>This is the colored image of videokymorgraphy</center>
 
 <div align="center">
 
