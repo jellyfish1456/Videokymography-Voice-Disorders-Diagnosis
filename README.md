@@ -25,4 +25,4 @@ This code is based on Matlab
 
 
 ![pic1](https://github.com/christw16/Videokymography-for-Voice-Disorders-Diagnosis/blob/master/image/colored.jpg)
-![pic2](https://github.com/christw16/Videokymography-for-Voice-Disorders-Diagnosis/blob/master/image/greyed.jpg)
+![pic2](https://github.com/christw16/Videokymography-for-Voice-Disorders-Diagnosis/blob/master/image/grey.jpg)
