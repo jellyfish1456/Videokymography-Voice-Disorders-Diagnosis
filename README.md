@@ -18,7 +18,7 @@ The course is [EEA683](https://portal.yzu.edu.tw/cosSelect/Cos_Plan_En.aspx?y=10
 
 # Environment
 
-   * Matlab
+   * Matlab R2019b
    
    
 # Example
